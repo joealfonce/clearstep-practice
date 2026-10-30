@@ -1,0 +1,31 @@
+CLEARSTEP - ANDROID PRACTICE APP
+
+Open the published HTTPS link in Chrome on your Android phone.
+Choose Install app, or Chrome menu > Add to Home screen / Install app.
+Wait until the header says "Offline ready". You can then use it without
+your computer or an internet connection.
+
+Four sessions contain 60 questions each. Answer at your own pace.
+Use MOST and LEAST once each on ranking and scenario questions.
+Use the star to bookmark and Question map to jump between questions.
+Finish set > Score this set reveals results after all 60 are answered.
+Submitted answers stay locked until you explicitly reset that set.
+
+SCORING
+Every question is worth 1 point; each session is worth 60.
+Agreement: matching direction = 1, neutral = 0.5, opposite = 0.
+Agree and Strongly agree receive the same credit, as do the matching
+Disagree choices. MOST and LEAST each earn 0.5 for matching the key.
+Personal rankings use illustrative fixed examples, not a correct
+personality. Scores do not predict Google hiring decisions.
+
+BACKUPS
+Open ? > Export progress to save a JSON backup.
+Import backup replaces progress only after confirmation.
+Progress stays in the same browser on the same device; it does not sync.
+Clearing browser/site data can erase progress and the offline download.
+Keep a backup, and reopen online to restore the offline app if needed.
+
+This is independent original preparation material, not actual Google
+questions, a verified answer key, or an official Google application.
+No analytics, accounts, or answer-upload services are included.

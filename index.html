@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#f6f5f0">
+  <meta name="description" content="Four thoughtful practice sessions. Build confidence in workplace judgment, one question at a time.">
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="icon" href="./icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="./icon-192.png">
+  <link rel="stylesheet" href="./style.css">
+  <title>Clearstep — Work-style practice</title>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="topbar">
+    <a class="brand" href="#home" aria-label="Clearstep home"><span class="brandmark" aria-hidden="true">c<span>.</span></span>clearstep<span class="brandtag">PRACTICE LAB</span></a>
+    <div class="top-actions"><span id="connection" class="status">Online</span><button id="install" class="small-button" hidden>Install app</button><button id="settings" class="icon-button" aria-label="Help and backups">?</button></div>
+  </header>
+  <div id="storage-warning" class="warning" role="alert" hidden></div>
+  <div id="notice" role="status" class="toast" hidden></div>
+  <main id="main" tabindex="-1"><p class="loading">Getting your practice space ready…</p></main>
+  <footer class="site-footer"><span>Independent practice. Not affiliated with Google.</span><span>Made for progress, not perfection.</span></footer>
+  <dialog id="modal"><div id="modal-content"></div></dialog>
+  <input id="import-file" type="file" accept=".json,application/json" hidden>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>
